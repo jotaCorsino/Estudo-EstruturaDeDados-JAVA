@@ -1,5 +1,6 @@
 package org.example;
 
+import DadaSctucture.Queue;
 import DadaSctucture.Stack;
 
 public class Main
@@ -30,9 +31,29 @@ public class Main
         //myStack.print();
         //myStack.getTop();
         //myStack.getHeight();
-
         // inverter ordem da pilha <<
         //int[] numeros = {5, 4, 3, 2, 1};
         //Stack.inverter(numeros);
+
+        // Estudos Filas <<
+        //Queue myQueue = new Queue(1);
+        //myQueue.getFirts();
+        //myQueue.getLast();
+        //myQueue.getLength();
+        //myQueue.print();
+        // enfileirar
+        //myQueue.enqueue(2);
+        //myQueue.enqueue(3);
+        //myQueue.getFirts();
+        //myQueue.getLast();
+        //myQueue.getLength();
+        //myQueue.print();
+        // desenfileirar
+        //System.out.println("Removido: " + myQueue.dequeue().value);
+        //myQueue.getFirts();
+        //myQueue.getLast();
+        //myQueue.getLength();
+        //myQueue.print();
+
     }
 }
