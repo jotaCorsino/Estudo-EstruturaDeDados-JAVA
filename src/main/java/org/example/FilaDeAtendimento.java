@@ -1,5 +1,5 @@
 package org.example;
-import DadaSctucture.Queue;
+import DataStructure.Queue;
 import java.util.Random;
 
 public class FilaDeAtendimento {
